@@ -1,0 +1,26 @@
+# Project build files.
+*cobertura.ser
+*bin
+target/
+*out
+*plugin.xml
+*stacktrace.log
+node_modules
+*.war
+*.codekit
+
+# IntelliJ IDEA project files.
+apps/cms/.idea
+.idea
+.slcache
+*.iml
+*.ipr
+*.iws
+*.ids
+
+# STS Eclipse project files.
+*.classpath
+*.project
+*.settings
+target-eclipse
+

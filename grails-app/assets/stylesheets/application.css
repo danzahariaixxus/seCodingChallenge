@@ -1,0 +1,20 @@
+body {
+    margin:80px 80px 100px 100px;
+}
+
+div#fixedheader {
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    color:#CCC;
+    background:black;
+}
+
+
+.site-logo {
+    float: left;
+    height: 36px;
+    margin: 22px 0 20px;
+    width: 220px;
+}
